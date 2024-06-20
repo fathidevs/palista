@@ -1,6 +1,7 @@
 {
    "data":{
       "status":"ongoing",
+      "days_count":0,
       "killed":"37,431",
       "injured":"85,653",
       "source_name":"Al Jazeera",
