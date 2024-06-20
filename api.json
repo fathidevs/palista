@@ -1,12 +1,10 @@
 {
-  "name": "Fathi Omar",
-  "age": 30,
-  "email": "johndoe@example.com",
-  "address": {
-    "street": "123 Main St",
-    "city": "Anytown",
-    "state": "California",
-    "country": "United States"
-  },
-  "interests": ["reading", "traveling", "cooking"]
+   "data":{
+      "status":"ongoing",
+      "killed":"37,431",
+      "injured":"85,653",
+      "source_name":"Al Jazeera",
+      "source_link":"https://aje.io/b6bjuw",
+      "last_update":"2024-06-20 22:34:00"
+   }
 }
